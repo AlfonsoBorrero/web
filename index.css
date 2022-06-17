@@ -1,0 +1,29 @@
+* {
+    font-family: 'Teko', sans-serif;
+}
+
+header {
+    background-color: rgb(250, 8, 8);
+    color: black;
+    margin: 10px;
+}
+
+section {
+    
+    background-image: url(bart.jpg);
+    background-size: cover;
+    width: 1000px;
+    height: 700px;
+float: left;
+}
+.section2{
+    background-color: black;
+    color: beige;
+
+}
+.nota{
+    text-align: center;
+    margin: 5px;
+    background-image: radial-gradient(circle at 50% -20.71%, #c2c1ff 0, #8598ff 25%, #486ee5 50%, #0046a0 75%, #002262 100%);
+    color: rgb(225, 230, 223);
+}
